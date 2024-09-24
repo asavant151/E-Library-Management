@@ -1,0 +1,23 @@
+.book-card {
+  background: #fff;
+  padding: 15px;
+  border-radius: 5px;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.book-card img {
+  max-height: 200px;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.book-card h5 {
+  font-size: 1.1rem;
+  margin-top: 15px;
+}
+
+.book-card p {
+  font-size: 0.9rem;
+  color: #777;
+}
